@@ -1,0 +1,17 @@
+/*
+!.gitignore
+!README.md
+!LICENSE.txt
+maps/
+!/plugins
+!/addons
+/addons/*
+!/addons/sourcemod
+/addons/sourcemod/*
+/addons/sourcemod/configs/*
+!/addons/sourcemod/plugins
+/addons/sourcemod/plugins/*
+!/addons/sourcemod/plugins/breath_of_life.smx
+!/addons/sourcemod/scripting
+/addons/sourcemod/scripting/*
+!/addons/sourcemod/scripting/breath_of_life.sp
